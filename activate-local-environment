@@ -1,0 +1,14 @@
+#
+# this file should be sourced:
+# $: source activate-local-environment
+
+# activate python virtual environment
+source bin/activate
+
+
+# activate node virtual environment
+# ...
+
+
+# setup postgres
+# ...
